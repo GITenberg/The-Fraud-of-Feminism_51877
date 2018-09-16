@@ -1,0 +1,35 @@
+_repo: The-Fraud-of-Feminism_51877
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bax, Ernest Belfort
+    aliases:
+    - Bax, E. B. (Ernest Belfort)
+    - Bax, E. Belfort (Ernest Belfort)
+    birthdate: 1854
+    deathdate: 1926
+    gutenberg_agent_id: '9310'
+    url: http://www.gutenberg.org/2009/agents/9310
+    wikipedia: http://en.wikipedia.org/wiki/Ernest_Belfort_Bax
+description: ''
+gutenberg_issued: '2016-04-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51877'
+  lccn: '14000515'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Feminism -- Great Britain'
+- !lcc 'HQ'
+- !lcsh 'Women -- Suffrage -- Great Britain'
+- !lcsh 'Women -- Great Britain -- Social conditions'
+- GITenberg
+tableOfContents: Preface -- Introduction -- Historical -- The main dogma of modern
+  feminism -- The anti-man crusade -- Always the "injured innocent" -- The "chivalry"
+  fake -- Some feminist lies and fallacies -- The psychology of the movement -- The
+  indictment.
+title: The Fraud of Feminism
+url: http://www.gutenberg.org/ebooks/51877
